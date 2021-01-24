@@ -89,7 +89,7 @@ class LoginPage extends StatelessWidget {
                         Container(
                           child: Center(
                             child: Text(
-                              'Melike Kübra Karagülle',
+                              'Hatice Kübra Karagülle',
                               style: devsHeading,
                             ),
                           ),
